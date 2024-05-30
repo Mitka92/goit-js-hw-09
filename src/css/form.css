@@ -9,6 +9,7 @@
   border: 1px solid rgba(0, 0, 0, 0.12);
   border-radius: 8px;
   color: #2e2f42;
+  margin-top: 24px;
 }
 
 .feedback-form label {
@@ -27,7 +28,8 @@
   border-radius: 8px;
   border: none;
   margin-top: 8px;
-  transition: background-color 300ms;
+  transition: background-color 500ms;
+  font-weight: 500;
 }
 
 input,
@@ -43,7 +45,7 @@ textarea {
   border-radius: 4px;
   border: 1px solid #808080;
   color: #2e2f42;
-  transition: border-color 300ms;
+  transition: border-color 500ms;
 }
 
 textarea {
