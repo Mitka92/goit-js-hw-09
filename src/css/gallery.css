@@ -1,7 +1,3 @@
-body {
-  display: flex;
-  justify-content: center;
-}
 .gallery {
   max-width: 1440px;
   display: flex;
